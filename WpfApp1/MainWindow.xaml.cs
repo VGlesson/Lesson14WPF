@@ -68,7 +68,7 @@ namespace WpfApp1
                 ProdImage = "Data/h.jpg",
                 ProductCategory = ProductCategorys.AppLiances
             });
-            ListBox.ItemsSource = products;
+            Listbox.ItemsSource = products;
         }
     }
 }
